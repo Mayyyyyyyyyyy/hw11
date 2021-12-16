@@ -1,0 +1,16 @@
+div.right{ float: right; border: 2px blue solid; margin-right: 150px; margin-top: 100px;}
+
+div.left { float: left; border: 2px blue solid; margin-left: 150px; margin-top: 100px;}
+
+div.fifty {position: relative; left: 50%; margin-top: 100px;}
+
+img.color{border: 2px blue solid; margin-top: 50px; margin-bottom: 50px;}
+
+div.back {background-size: 100% 100% ; border: 2px black solid; background-image: url(kp.jpg); }
+
+div.white {background-size: 100% 100% ; background-image: url(white.png);}
+
+div.cc{border: 2px black solid;}
+
+div.a{color:white ; font-size: 500px;}
+
